@@ -1,0 +1,30 @@
+﻿Klarity
+Clause creation project assignment
+
+WHEREAS:
+
+
+Article 1.
+A.IGW and Company (each a “Party, or collectively, “Parties”) recognize that there is a need to disclose to each other certain Confidential Information specifically related to [insert project description].
+B.IGW and Company may exchange or have access to various proprietary, confidential and sensitive commercial, technical or other information related to the Project.
+
+
+Article 2.
+2.11 The Receiving Party takes all obligations resulting from this agreement upon itself towards all Disclosing Parties which it received Confidential Information from and shall fulfill all obligations towards all such Disclosing Parties.
+2.12 For the avoidance of doubt, in case of doubt, the relevant information will be deemed to be Confidential Information, the burden of proof of the possible non-confidential nature of any information disclosed by the Disclosing Party being solely on the Receiving Party.
+LIMITS TO OBLIGATIONS ON THE RECEIVING PARTY
+The obligations contained in Clause 2 above shall not apply to Confidential Information:
+Which is in the public domain at the time of disclosure or use or becomes part of the public domain after disclosure otherwise than through a breach of this NDA;
+For which the Receiving Party can provide documentary evidence that it was in its lawful
+possession prior to disclosure to it by the Disclosing Party or which is lawfully obtained by the Receiving Party from a third party who, to the knowledge or reasonable belief of the Receiving Party, did not receive such information directly or indirectly under a duty of confidentiality or from a source prohibited by any contractual, legal or fiduciary obligation from disclosing such information; or
+For which the Receiving Party can provide documentary proof that it was independently
+developed by the Receiving Party without prior knowledge of any Confidential Information obtained from the Disclosing Party.
+The obligations contained in Clause 2 shall not apply to a specific disclosure of Confidential
+Information meeting one of the following conditions:
+3.2.1Disclosure of the Confidential Information is required by reason of a governmental or judicial order or applicable law. In such a case, the Receiving Party subject to such order or applicable law shall promptly inform the Disclosing Party of its obligation to disclose Confidential Information, if possible, prior to such disclosure. If the Disclosing Party wishes to seek a protective order or otherwise dispute the order or applicable law requiring disclosure, the Receiving Party shall cooperate with the Disclosing Party in doing so; or
+1. This would also include some other things
+   1. There’s something else to consider
+   2. This is the second thing
+1. This means the rest of the agreement is void
+3.2.2 Disclosure of the Confidential Information is made in confidence to any third party with the prior written consent of the Disclosing Party.
+3.2.3 Disclosure of the Confidential Information is necessary in the event of legal proceedings between the Disclosing Party and the Receiving Party which require such Confidential Information to be produced.

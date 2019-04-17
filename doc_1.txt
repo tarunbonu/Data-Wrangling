@@ -1,0 +1,23 @@
+﻿Klarity
+Clause creation project assignment
+
+Section 1.
+It is agreed as follows:-
+
+
+1. As used herein, the term “Confidential Information” refers to any written or oral information to which the parties may have access or of which the parties may have knowledge in the course of the Transaction.
+
+
+2. The parties agree that Confidential Information will be used only for the purpose of analyzing the proposed Transaction, and that (other than with the Disclosing Party’s prior written consent) Confidential Information will otherwise be kept confidential and will be treated with the same degree of care against disclosure as the Receiving Party customarily uses for its own confidential information. Confidential Information may be disclosed only on a confidential "need-to-know" to the directors, officers, employees of the Receiving Company and its affiliates and outside agents and consultants (including attorneys and accountants) of the Receiving Party (collectively, “Representatives”), all of whom will be informed of the confidential nature of all Confidential Information disclosed and will agree to be bound by the terms of this Agreement. The Receiving Party shall be responsible for any breach of the terms of this Agreement by its Representatives.
+
+
+3. Notwithstanding the foregoing, the term "Confidential Information" does not include
+(i) information which is already in the possession of the Receiving Party; 
+(ii) information which becomes generally available to the public other than as a result of a breach of this Agreement;
+(iii) information which becomes available to the Receiving Party on a non-confidential basis from a source other than the Disclosing Party, provided that such source is not known by the Receiving Party to be bound by a confidentiality agreement, or other obligation of secrecy, with respect to such information; or (iv) information which the Receiving Party is required to disclose by a court or administrative agency of competent jurisdiction, provided that the Receiving Party immediately notifies the Disclosing Party of such requirement and cooperates reasonably (at the Disclosing Party’s expense) with efforts by the Disclosing Party to preserve the confidentiality of such information.
+
+
+4.Upon request of the Disclosing Party or in the event that the Transaction does not occur, the Receiving Party will promptly either 
+(i) deliver to the Disclosing Party, or 
+(ii) destroy, and certify in writing the destruction of, all of the written Confidential Information in its possession or in the possession of its Representatives, without retaining copies thereof, save for copies which have to be retained for compliance with law or corporate governance requirements, and shall not thereafter use any Confidential Information (including any Confidential Information contained in the Receiving Party’s notes).  For the avoidance of doubt, the Receiving Party shall be under no obligation to return to the Disclosing Party or destroy the notes or other information derived or developed by the Receiving Party or its Representatives from the Confidential Information, provided that any Confidential Information contained therein shall remain subject to the terms of this Agreement.
+
